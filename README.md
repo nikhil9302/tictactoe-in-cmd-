@@ -1,2 +1,2 @@
 # tictactoe-in-cmd-
-Using C++
+For LHD Share Day3
